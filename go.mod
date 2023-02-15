@@ -1,4 +1,4 @@
-module github.com/erda-project/erda-proto-go/v2
+module github.com/erda-project/erda-proto-go
 
 go 1.17
 
